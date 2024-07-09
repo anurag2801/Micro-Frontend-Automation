@@ -18,7 +18,7 @@ export default function App() {
                         </Switch>
                     </BrowserRouter>
                 </StylesProvider>
-                <h1>Marketing component</h1>
+                {/* <h1>Marketing component</h1> */}
             </ErrorBoundary>
         </div>
     );
