@@ -5,8 +5,9 @@ import MarketingApp from './conponents/MarketingApp';
 
 export default () => {
     return (
-        <div>
-            <h1>Anurag Mishra</h1>
-        </div>
+
+
+        <MarketingApp />
+
     );
 };
